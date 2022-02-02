@@ -4,7 +4,7 @@ import ru.titov.server.chat.MyServer;
 
 public class ServerApp {
 
-    private static final int DEFAULT_PORT = 8189;
+    private static final int DEFAULT_PORT = 8188;
 
     public static void main(String[] args) {
         int port = DEFAULT_PORT;
